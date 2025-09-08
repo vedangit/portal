@@ -4,7 +4,7 @@
 
 It remembers your project locations and setup commands, allowing you to switch between complex environments with a single command, from anywhere on your system.
 
-
+Made with AI and ❤️
 
 ---
 
