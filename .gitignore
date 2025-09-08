@@ -1,0 +1,49 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when run with the atomic flag
+*.out
+
+# Go workspace file
+go.work
+
+# Dependency directories (though Go modules are preferred)
+# Add your own dependency directories here if you need to
+vendor/
+
+# Go Module cache
+# In general, the go.mod and go.sum files are tracked and committed,
+# but the local cache should be ignored.
+go.mod.sum
+
+# Compiled binary output from 'go build'
+portal-cli
+
+# Distribution directory for release binaries from 'gox'
+dist/
+
+# Environment variables file
+# Never commit your environment variables.
+.env
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor configuration files
+.vscode/
+.idea/
+*.swp
+*~
